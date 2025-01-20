@@ -13,7 +13,6 @@ const Connected = (props) => {
                     <input type="number" placeholder="Entern Candidate Index" value={props.number} onChange={props.handleNumberChange}></input>
             <br />
             <button className="login-button" onClick={props.voteFunction}>Vote</button>
-
                 </div>
             )}
             

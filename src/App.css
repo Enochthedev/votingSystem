@@ -28,7 +28,6 @@
   background-color: #0069d9;
 }
 
-
 .connected-container {
   display: flex;
   flex-direction: column;
@@ -70,7 +69,6 @@
   font-size: 1.2rem;
   text-align: center;
 }
-
 
 .candidates-table {
   border-collapse: collapse;
